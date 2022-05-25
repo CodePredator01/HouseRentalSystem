@@ -3,7 +3,7 @@ This is a simple House rent system where anyone can come and take home as rent a
  
  
 ### collaborators
-- Surendra Tomar (191500831)
+- Surendra Pratap Tomar (191500831)
 - Hardik Pratap (191500310)
 - Srijan Kumar (191500823)
 - Anoop Pandey (191500127)
